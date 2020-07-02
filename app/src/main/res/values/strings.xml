@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">TRIAL APP</string>
+    <string name="textview">TextView</string>
+    <string name="name">Name</string>
+    <string name="hello_nishi">Hello Nishi</string>
+    <string name="button">add</string>
+    <string name="number_1">Number 1</string>
+    <string name="number2">Number2</string>
+    <string name="result">Result</string>
+    <string name="number3" />
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="show_password">Show Password</string>
+</resources>
